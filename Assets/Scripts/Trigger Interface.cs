@@ -41,7 +41,7 @@ public class Button : MonoBehaviour
     public AudioClip buttonSound; // Public AudioClip variable for the sound effect
     
     //Private Variables
-    private List<ITrigger> _mBoundTriggers = new List<ITrigger>(); // List to hold the triggers bound to this butto
+    private List<ITrigger> _mBoundTriggers = new List<ITrigger>(); // List to hold the triggers bound to this button
     private AudioSource _audioSource; // Private AudioSource variable
     
     
