@@ -1,0 +1,11 @@
+Model Information:
+* title:	RPG-43 - Soviet grenade
+* source:	https://sketchfab.com/3d-models/rpg-43-soviet-grenade-48a829a5f70b4df18ae2d0916e21e236
+* author:	Dominatorko (https://sketchfab.com/dominatorko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RPG-43 - Soviet grenade" (https://sketchfab.com/3d-models/rpg-43-soviet-grenade-48a829a5f70b4df18ae2d0916e21e236) by Dominatorko (https://sketchfab.com/dominatorko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

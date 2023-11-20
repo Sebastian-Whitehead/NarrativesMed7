@@ -1,0 +1,11 @@
+Model Information:
+* title:	WWII : M24 Grenade
+* source:	https://sketchfab.com/3d-models/wwii-m24-grenade-ef34b93b06b14c678c0021b82b0d4213
+* author:	Slayer4Demons (https://sketchfab.com/Slayer4Demons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WWII : M24 Grenade" (https://sketchfab.com/3d-models/wwii-m24-grenade-ef34b93b06b14c678c0021b82b0d4213) by Slayer4Demons (https://sketchfab.com/Slayer4Demons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
