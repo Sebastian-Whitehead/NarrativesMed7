@@ -1,0 +1,11 @@
+Model Information:
+* title:	Button
+* source:	https://sketchfab.com/3d-models/button-d4796d9384214ee2b6b4e2198e0bc529
+* author:	keskin (https://sketchfab.com/keskin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Button" (https://sketchfab.com/3d-models/button-d4796d9384214ee2b6b4e2198e0bc529) by keskin (https://sketchfab.com/keskin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
