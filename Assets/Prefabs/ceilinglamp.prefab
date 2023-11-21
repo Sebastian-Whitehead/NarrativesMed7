@@ -93,10 +93,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1750352483783528840}
+  - component: {fileID: 4950534303908907030}
   - component: {fileID: 2549364451895374973}
   - component: {fileID: 8268541903757468483}
   - component: {fileID: 3271232157541515549}
-  - component: {fileID: 4950534303908907030}
   m_Layer: 0
   m_Name: Spot Light
   m_TagString: Untagged
@@ -119,6 +119,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2666540176148131670}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!114 &4950534303908907030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4805718437872584425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387cb964b75449e9945f331dc18a8e26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundClip: {fileID: 8300000, guid: 6dac47808bf4d974aacc2d70ca16561a, type: 3}
+  fadeSpeed: 1
+  waitForCompletion: 0
+  startOn: 0
 --- !u!108 &2549364451895374973
 Light:
   m_ObjectHideFlags: 0
@@ -399,22 +415,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &4950534303908907030
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4805718437872584425}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 387cb964b75449e9945f331dc18a8e26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  soundClip: {fileID: 8300000, guid: 6dac47808bf4d974aacc2d70ca16561a, type: 3}
-  fadeSpeed: 1
-  waitForCompletion: 0
-  startOn: 0
 --- !u!1 &7277813145791353661
 GameObject:
   m_ObjectHideFlags: 0

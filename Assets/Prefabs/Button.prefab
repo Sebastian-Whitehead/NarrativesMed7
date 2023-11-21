@@ -9,8 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2868215554839209589}
-  - component: {fileID: 3017374660946486397}
   - component: {fileID: 4281106723460649399}
+  - component: {fileID: 3017374660946486397}
   m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
@@ -36,6 +36,22 @@ Transform:
   - {fileID: 1364382401193587444}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4281106723460649399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602501571485192258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f49d5abcec521d45993d49f0a9987b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxDistance: 5
+  boundObjects: []
+  buttonSound: {fileID: 8300000, guid: ee2f2fa4f8967fc4ba4d55ea799fa44b, type: 3}
+  inputKey: 101
 --- !u!82 &3017374660946486397
 AudioSource:
   m_ObjectHideFlags: 0
@@ -132,22 +148,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &4281106723460649399
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 602501571485192258}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2f49d5abcec521d45993d49f0a9987b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxDistance: 5
-  boundObjects: []
-  buttonSound: {fileID: 8300000, guid: ee2f2fa4f8967fc4ba4d55ea799fa44b, type: 3}
-  inputKey: 101
 --- !u!1 &2525709646899092031
 GameObject:
   m_ObjectHideFlags: 0
