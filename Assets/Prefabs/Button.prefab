@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2868215554839209589}
   - component: {fileID: 4281106723460649399}
+  - component: {fileID: 7669784723751969655}
   - component: {fileID: 3017374660946486397}
   m_Layer: 0
   m_Name: Button
@@ -28,8 +29,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 9020192994329291399}
   - {fileID: 6602793668108942025}
@@ -52,6 +53,27 @@ MonoBehaviour:
   boundObjects: []
   buttonSound: {fileID: 8300000, guid: ee2f2fa4f8967fc4ba4d55ea799fa44b, type: 3}
   inputKey: 101
+--- !u!65 &7669784723751969655
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602501571485192258}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1.7783029, z: 1}
+  m_Center: {x: 0, y: 0.38915145, z: 0}
 --- !u!82 &3017374660946486397
 AudioSource:
   m_ObjectHideFlags: 0
@@ -73,7 +95,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 5
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
