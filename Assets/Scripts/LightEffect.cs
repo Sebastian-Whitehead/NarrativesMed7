@@ -5,15 +5,17 @@ using System.Collections;
 [RequireComponent(typeof(AudioSource))]
 public class LightEffect : MonoBehaviour, ITrigger
 {
-    
-    private Light _lightObject; //The light object to be controlled
-    private AudioSource _soundEmitter; //The AudioSource to play the sound
-    
+    private Light _lightObject; // The light object to be controlled
+    private AudioSource _soundEmitter; // The AudioSource to play the sound
+
     [Tooltip("The sound to be played when the light is turned on")]
     public AudioClip soundClip;
 
     [Tooltip("The speed at which the light fades in")]
     public float fadeSpeed = 1f;
+
+    [Tooltip("Delay before the light turns on")]
+    public float delay = 0f;
 
     [Tooltip("Whether other effects should wait for this one to complete")]
     public bool waitForCompletion = false;
@@ -38,7 +40,7 @@ public class LightEffect : MonoBehaviour, ITrigger
         }
     }
 
-    public float Duration => fadeSpeed;
+    public float Duration => fadeSpeed + delay;
     public bool WaitForCompletion => waitForCompletion;
     public Fx Type => Fx.Light;
 
@@ -51,7 +53,7 @@ public class LightEffect : MonoBehaviour, ITrigger
         }
         else
         {
-            StartCoroutine(FadeInLight());
+            StartCoroutine(FadeInLightWithDelay());
             if (_soundEmitter != null && soundClip != null)
             {
                 _soundEmitter.clip = soundClip;
@@ -61,8 +63,10 @@ public class LightEffect : MonoBehaviour, ITrigger
         }
     }
 
-    private IEnumerator FadeInLight()
+    private IEnumerator FadeInLightWithDelay()
     {
+        yield return new WaitForSeconds(delay);
+
         float elapsedTime = 0;
 
         while (elapsedTime < fadeSpeed)

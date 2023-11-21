@@ -14,7 +14,7 @@ public class SoundTrigger : MonoBehaviour, ITrigger
 
     // Interface variables
     public float Duration => soundClip.length;
-    public bool WaitForCompletion { get; set; }
+    public bool waitForCompletion = false;
     public Fx Type => isNarration ? Fx.Narration : Fx.Sound;
 
     void Start()
@@ -24,6 +24,8 @@ public class SoundTrigger : MonoBehaviour, ITrigger
         _audioSource.loop = repeatSound;  // Sets weather sound source should loop
     }
 
+    public bool WaitForCompletion => waitForCompletion;
+        
     // Called by a trigger function
     public void Trigger()
     {
