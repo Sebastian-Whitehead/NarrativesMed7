@@ -51,6 +51,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDistance: 5
   boundObjects: []
+  delayBeforeFinalTriggers: 0
+  finalTriggers: []
   buttonSound: {fileID: 8300000, guid: ee2f2fa4f8967fc4ba4d55ea799fa44b, type: 3}
   inputKey: 101
 --- !u!65 &7669784723751969655
@@ -85,7 +87,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0

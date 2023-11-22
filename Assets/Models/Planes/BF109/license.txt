@@ -1,0 +1,11 @@
+Model Information:
+* title:	Manilov.ap's Bf 109 Remix
+* source:	https://sketchfab.com/3d-models/manilovaps-bf-109-remix-4a663a81690b41a1a700c0a501b00001
+* author:	Sabre (https://sketchfab.com/sabrezor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Manilov.ap's Bf 109 Remix" (https://sketchfab.com/3d-models/manilovaps-bf-109-remix-4a663a81690b41a1a700c0a501b00001) by Sabre (https://sketchfab.com/sabrezor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

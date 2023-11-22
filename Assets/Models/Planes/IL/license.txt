@@ -1,0 +1,11 @@
+Model Information:
+* title:	IL-2
+* source:	https://sketchfab.com/3d-models/il-2-ff7bffad1b504d5cac67f69db2682131
+* author:	NOD (https://sketchfab.com/nodmans)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IL-2" (https://sketchfab.com/3d-models/il-2-ff7bffad1b504d5cac67f69db2682131) by NOD (https://sketchfab.com/nodmans) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

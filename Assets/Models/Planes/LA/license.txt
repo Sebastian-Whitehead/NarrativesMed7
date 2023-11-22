@@ -1,0 +1,11 @@
+Model Information:
+* title:	WWII Soviet Plane (with interior)
+* source:	https://sketchfab.com/3d-models/wwii-soviet-plane-with-interior-7e23e8dd241e4d0798322014ff2079d1
+* author:	Gonzalo Sánchez (https://sketchfab.com/gonz45c)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WWII Soviet Plane (with interior)" (https://sketchfab.com/3d-models/wwii-soviet-plane-with-interior-7e23e8dd241e4d0798322014ff2079d1) by Gonzalo Sánchez (https://sketchfab.com/gonz45c) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
