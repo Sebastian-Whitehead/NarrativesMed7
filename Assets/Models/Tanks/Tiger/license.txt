@@ -1,0 +1,11 @@
+Model Information:
+* title:	German Armoured Division WWII Tiger Tank
+* source:	https://sketchfab.com/3d-models/german-armoured-division-wwii-tiger-tank-a982b6e03db143a8aa299f59e30b0d1a
+* author:	drcrazzie (https://sketchfab.com/drcrazzie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "German Armoured Division WWII Tiger Tank" (https://sketchfab.com/3d-models/german-armoured-division-wwii-tiger-tank-a982b6e03db143a8aa299f59e30b0d1a) by drcrazzie (https://sketchfab.com/drcrazzie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

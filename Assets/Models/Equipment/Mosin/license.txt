@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mosin`s carbine 1938
+* source:	https://sketchfab.com/3d-models/mosins-carbine-1938-99cbe39fccfd45cab54675b2fdf157c3
+* author:	egorbelous (https://sketchfab.com/egorbelous)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mosin`s carbine 1938" (https://sketchfab.com/3d-models/mosins-carbine-1938-99cbe39fccfd45cab54675b2fdf157c3) by egorbelous (https://sketchfab.com/egorbelous) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

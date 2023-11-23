@@ -1,0 +1,11 @@
+Model Information:
+* title:	T-34-85 Soviet Tank
+* source:	https://sketchfab.com/3d-models/t-34-85-soviet-tank-58d1ec1a786f4065a504da5ccf6fc7b5
+* author:	Federico Oviedo (https://sketchfab.com/Federico.Oviedo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "T-34-85 Soviet Tank" (https://sketchfab.com/3d-models/t-34-85-soviet-tank-58d1ec1a786f4065a504da5ccf6fc7b5) by Federico Oviedo (https://sketchfab.com/Federico.Oviedo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	GM38 Gas mask
+* source:	https://sketchfab.com/3d-models/gm38-gas-mask-f4cc1969369342e09530f3f70b927a12
+* author:	RustyNeuron (https://sketchfab.com/RustyNeuron)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GM38 Gas mask" (https://sketchfab.com/3d-models/gm38-gas-mask-f4cc1969369342e09530f3f70b927a12) by RustyNeuron (https://sketchfab.com/RustyNeuron) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

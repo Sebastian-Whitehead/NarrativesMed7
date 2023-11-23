@@ -28,9 +28,39 @@ ScriptedImporter:
     originalUri: Assets\Models\Tanks\Panzer IV\scene.bin
     assetPath: Assets\Models\Tanks\Panzer IV\scene.bin
   - type: 1
-    originalUri: Assets\Models\Tanks\Panzer IV\textures\Material_5933_baseColor.png
-    assetPath: Assets\Models\Tanks\Panzer IV\textures\Material_5933_baseColor.png
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1001_baseColor.jpeg
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1001_baseColor.jpeg
   - type: 1
-    originalUri: Assets\Models\Tanks\Panzer IV\textures\Material_5937_baseColor.png
-    assetPath: Assets\Models\Tanks\Panzer IV\textures\Material_5937_baseColor.png
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1001_metallicRoughness.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1001_normal.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1001_normal.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1002_baseColor.jpeg
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1002_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1002_metallicRoughness.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1002_normal.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1002_normal.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1003_baseColor.jpeg
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1003_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1003_metallicRoughness.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1003_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1003_normal.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1003_normal.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1004_baseColor.jpeg
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1004_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1004_metallicRoughness.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1004_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Tanks\Panzer IV\textures\ai_1004_normal.png
+    assetPath: Assets\Models\Tanks\Panzer IV\textures\ai_1004_normal.png
   reportItems: []
