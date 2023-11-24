@@ -23,6 +23,10 @@ public class LightEffect : MonoBehaviour, ITrigger
     [Tooltip("Whether the light starts on")]
     public bool startOn = false;
 
+    [Tooltip("Target light intensity for when in the on state")]
+    public float onIntensity = 5000;
+    
+
     private bool _isOn = false; // Whether the light is currently on
 
     void Start()
@@ -30,9 +34,9 @@ public class LightEffect : MonoBehaviour, ITrigger
         _lightObject = GetComponent<Light>();
         _soundEmitter = GetComponent<AudioSource>();
         _isOn = startOn;
-        if (_isOn)
+        if (startOn)
         {
-            _lightObject.intensity = 1;
+            _lightObject.intensity = onIntensity;
         }
         else
         {
@@ -71,11 +75,11 @@ public class LightEffect : MonoBehaviour, ITrigger
 
         while (elapsedTime < fadeSpeed)
         {
-            _lightObject.intensity = Mathf.Lerp(0, 1, (elapsedTime / fadeSpeed));
+            _lightObject.intensity = Mathf.Lerp(0, onIntensity, (elapsedTime / fadeSpeed));
             elapsedTime += Time.deltaTime;
             yield return null;
         }
 
-        _lightObject.intensity = 1;
+        _lightObject.intensity = onIntensity;
     }
 }
