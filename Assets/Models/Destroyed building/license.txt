@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Ruins
+* source:	https://sketchfab.com/3d-models/medieval-ruins-590ee7e266c74255b110b0a77a77a531
+* author:	creationwasteland (https://sketchfab.com/creationwasteland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Ruins" (https://sketchfab.com/3d-models/medieval-ruins-590ee7e266c74255b110b0a77a77a531) by creationwasteland (https://sketchfab.com/creationwasteland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
