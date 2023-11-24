@@ -1706,12 +1706,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -7821,12 +7821,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -9190,12 +9190,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -15412,12 +15412,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -16747,12 +16747,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -20583,12 +20583,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -23162,12 +23162,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -24069,12 +24069,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
@@ -27007,12 +27007,12 @@ PrefabInstance:
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: MaxDistance
-      value: 16
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
       propertyPath: rolloffMode
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6043631953244159380, guid: 9e2015a44fde0a744b35b8d029ed1301,
         type: 3}
