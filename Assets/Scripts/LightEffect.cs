@@ -58,11 +58,6 @@ public class LightEffect : MonoBehaviour, ITrigger
         else
         {
             StartCoroutine(FadeInLightWithDelay());
-            if (_soundEmitter != null && soundClip != null)
-            {
-                _soundEmitter.clip = soundClip;
-                _soundEmitter.Play();
-            }
             _isOn = true;
         }
     }
@@ -72,7 +67,11 @@ public class LightEffect : MonoBehaviour, ITrigger
         yield return new WaitForSeconds(delay);
 
         float elapsedTime = 0;
-
+        if (_soundEmitter != null && soundClip != null)
+        {
+            _soundEmitter.clip = soundClip;
+            _soundEmitter.Play();
+        }
         while (elapsedTime < fadeSpeed)
         {
             _lightObject.intensity = Mathf.Lerp(0, onIntensity, (elapsedTime / fadeSpeed));
