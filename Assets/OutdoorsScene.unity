@@ -473,11 +473,6 @@ PrefabInstance:
       propertyPath: delay
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -760,11 +755,6 @@ PrefabInstance:
       propertyPath: delay
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -935,11 +925,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -2134,11 +2119,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -3349,11 +3329,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 78
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -6031,11 +6006,6 @@ PrefabInstance:
       propertyPath: delay
       value: 75
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -8119,11 +8089,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -13808,11 +13773,6 @@ PrefabInstance:
       propertyPath: delay
       value: 26
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -13953,11 +13913,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -14221,11 +14176,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 19
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -17183,11 +17133,6 @@ PrefabInstance:
       propertyPath: delay
       value: 44
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -17930,11 +17875,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 59
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -21681,11 +21621,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 40
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -21988,11 +21923,6 @@ PrefabInstance:
       propertyPath: delay
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -22163,11 +22093,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -22791,11 +22716,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 21
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
@@ -29853,11 +29773,6 @@ PrefabInstance:
       propertyPath: delay
       value: 31
       objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6600
-      objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -32679,11 +32594,6 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 2213642075730614262, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
-        type: 3}
-      propertyPath: onIntensity
-      value: 6570
       objectReference: {fileID: 0}
     - target: {fileID: 5773323751188997783, guid: 4ccf25e70ead70d44b4c470f617ac0e1,
         type: 3}
