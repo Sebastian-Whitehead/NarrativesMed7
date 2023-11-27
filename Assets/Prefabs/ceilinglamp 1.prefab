@@ -52,6 +52,7 @@ MonoBehaviour:
   delay: 0
   waitForCompletion: 0
   startOn: 0
+  onIntensity: 5000
 --- !u!108 &7984317531272510119
 Light:
   m_ObjectHideFlags: 0

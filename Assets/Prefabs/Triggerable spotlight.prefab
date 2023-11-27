@@ -199,8 +199,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soundClip: {fileID: 8300000, guid: 6dac47808bf4d974aacc2d70ca16561a, type: 3}
   fadeSpeed: 1
+  delay: 0
   waitForCompletion: 0
   startOn: 0
+  onIntensity: 2000
 --- !u!108 &1254347236003474952
 Light:
   m_ObjectHideFlags: 0

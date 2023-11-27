@@ -41,6 +41,7 @@ public class LightEffect : MonoBehaviour, ITrigger
         else
         {
             _lightObject.intensity = 0;
+            _lightObject.enabled = false;
         }
     }
 
@@ -54,6 +55,7 @@ public class LightEffect : MonoBehaviour, ITrigger
         {
             _lightObject.intensity = 0;
             _isOn = false;
+            _lightObject.enabled = false;
         }
         else
         {
@@ -65,7 +67,8 @@ public class LightEffect : MonoBehaviour, ITrigger
     private IEnumerator FadeInLightWithDelay()
     {
         yield return new WaitForSeconds(delay);
-
+        _lightObject.enabled = true;
+        
         float elapsedTime = 0;
         if (_soundEmitter != null && soundClip != null)
         {
